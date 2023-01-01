@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/three-portal/static/css/main.39a41183.css",
+    "main.js": "/three-portal/static/js/main.2f92cb75.js",
+    "index.html": "/three-portal/index.html",
+    "main.39a41183.css.map": "/three-portal/static/css/main.39a41183.css.map",
+    "main.2f92cb75.js.map": "/three-portal/static/js/main.2f92cb75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39a41183.css",
+    "static/js/main.2f92cb75.js"
+  ]
+}
